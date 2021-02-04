@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning tricks of github.
+Working on exciting new things. Would start checking in soon.
+Pls. do revisit soon.
 
 <!--
 **npdevapp/npdevapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
